@@ -1,5 +1,0 @@
-streamlit
-mem0ai
-openai
-google-generativeai
-gTTS
