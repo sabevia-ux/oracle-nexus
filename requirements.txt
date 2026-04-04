@@ -1,5 +1,0 @@
-streamlit
-mem0ai
-openai
-python-dotenv
-google-generativeai
